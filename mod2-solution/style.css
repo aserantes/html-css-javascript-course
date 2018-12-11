@@ -16,7 +16,8 @@ h1 {
 }
 
 h2 {
-  border: 1px black solid;
+  border-bottom: 2px black solid;
+  border-left: 2px black solid;
   float: right;
   text-align: center;
   width: 150px;
@@ -44,7 +45,7 @@ p {
 }
 
 .container {
-  border: 1px solid black;
+  border: 2px solid black;
   margin: 20px;
   background-color: grey;
 }
